@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>V.Sujeetha Portfolio</title>
+
+<style>
+
+body {
+
+font-family: Arial, sans-serif; margin: 40px;
+background-color: #f0f0f8; color: #333;
+}
+
+.portfolio-container { background: white; max-width: 600px; margin: auto; padding: 30px; border-radius: 8px;
+box-shadow: 0 0 15px rgba(0,0,0,0.1);
+
+}
+
+h1 {
+
+text-align: center; color: #004aad;
+}
+
+.info {
+
+margin: 20px 0; font-size: 1.1em;
+ 
+}
+
+.label {
+
+font-weight: bold; color: #222;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="portfolio-container">
+
+<h1>V.Sujeetha's Portfolio</h1>
+
+<div class="info"><span class="label">Name:</span> V.Sujeetha</div>
+
+<div class="info"><span class="label">Email ID:</span> <a href="mailto:v.sujeetha2007@gmail.com">v.sujeetha2007@gmail.com</a></div>
+<div class="info"><span class="label">Phone Number:</span> 8438152949</div>
+
+<div class="info"><span class="label">Course:</span> BSc Computer Science</div>
+
+<div class="info"><span class="label">Year:</span> 2nd Year</div>
+
+</div>
+
+</body>
+
+</html>
